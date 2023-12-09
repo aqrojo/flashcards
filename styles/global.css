@@ -1,0 +1,31 @@
+@import url("variables.css");
+@import url("layout.css");
+@import url("buttons.css");
+@import url("icon.css");
+@import url("list.css");
+@import url("texts.css");
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    font-size: 16px;
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 500;
+    line-height: 1.6;
+    background: var(--gray-100);
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+.app-container {
+    margin: auto;
+    width: 100%;
+    height: 100vh;
+    max-width: 720px;
+    padding: 0;
+}

@@ -1,0 +1,21 @@
+:root {
+    /*colors*/
+    --primary-color: #725D97;
+    --primary-dark-color: #513e69;
+    --primary-light-color: #c9bbde;
+    --gray-100: #F7F6F8;
+    --gray-200: #DBD8DD;
+    --gray-300: #BAB6BF;
+    --gray-400: #8C8692;
+    --gray-500: #545158;
+    --gray-600: #28272A;
+
+    --radii-1: 2px;
+    --radii-2: 4px;
+    --radii-3: 8px;
+    --radii-4: 14px;
+    --radii-5: 20px;
+    --radii-6: 30px;
+
+}
+

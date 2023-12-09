@@ -1,0 +1,13 @@
+.fc-simple-button {
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 1rem .8rem;
+  text-align: center;
+  border: none;
+  border-radius: var(--radii-2);
+  background-color: var(--primary-color);
+  cursor: pointer;
+  color: #fff;
+  text-decoration: none;
+}
